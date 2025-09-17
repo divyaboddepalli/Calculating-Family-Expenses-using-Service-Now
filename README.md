@@ -16,7 +16,7 @@ It allows users to record, track, and visualize expenses across multiple categor
 
 # 🎥 Demo & Documentation
 
-## [Watch the Demo Video] (https://drive.google.com/file/d/1Ie6K1etBrZjybxIhRvML5Qmv9EfxVwYT/view?usp=sharing)
+[Watch the Demo Video] (https://drive.google.com/file/d/1Ie6K1etBrZjybxIhRvML5Qmv9EfxVwYT/view?usp=sharing)
 
 📹 Video: Demonstrates how the application works
 
