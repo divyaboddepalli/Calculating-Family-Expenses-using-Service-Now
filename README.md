@@ -28,5 +28,4 @@ It allows users to record, track, and visualize expenses across multiple categor
 
 Clone the repository:
 
-git clone https://github.com/divyaboddepalli/Calculating-Family-Expenses-using-Service-Now.git"# Calculating-Family-Expenses-using-Service-Now" 
-"# Calculating-Family-Expenses-using-Service-Now" 
+git clone https://github.com/divyaboddepalli/Calculating-Family-Expenses-using-Service-Now.git"# Calculating-Family-Expenses-using-Service-Now"
